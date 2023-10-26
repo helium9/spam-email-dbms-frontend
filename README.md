@@ -1,2 +1,2 @@
 # spam-email-dbms-frontend
-dbms assignment spam email detection frontend
+Front-end for DBMS Assignment, for Vercel.
